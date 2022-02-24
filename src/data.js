@@ -29,7 +29,7 @@ const projects = [
         description: 'A social media app for pets to interact and make friends with other pets.',
         stack: ['ReactJs', 'JavaScript', 'Ruby on Rails'],
         imgName: 'Furbook.png',
-        siteUrl: 'https://narie.herokuapp.com/',
+        siteUrl: 'https://furr-book.herokuapp.com/',
         codeUrl: 'https://github.com/hoale123/furbook',
     },
 ]
