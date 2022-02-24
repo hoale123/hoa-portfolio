@@ -10,7 +10,7 @@ export default function Profile() {
                 <div className='colz'>
                     <div className='colz-icon'>
                     Linkedin
-                    <a href='`https://www.linkedin.com/in/hoa-le/`'>
+                    <a href='https://www.linkedin.com/in/hoa-le/'>
                         <i className='fa fa-linkedin-square'></i>
                     </a>
                     Github
@@ -52,10 +52,10 @@ export default function Profile() {
                     </span>
                 </div>
                 <div className='profile-options'>
-                    <button className='btn primary-btn'>
+                    {/* <button className='btn primary-btn'>
                         {" "}
                         Hire Me {" "}
-                    </button>
+                    </button> */}
                     <a href='Hoa-Resume.pdf' download="Hoa Le.pdf">
                         <button className='btn highlighted-btn'>Get Resume</button>
                     </a>
