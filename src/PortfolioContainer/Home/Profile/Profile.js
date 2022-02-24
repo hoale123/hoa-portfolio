@@ -1,6 +1,5 @@
 import React from 'react'
 import Typical from 'react-typical'
-import { Button } from 'semantic-ui-react'
 import "./Profile.css"
 
 export default function Profile() {
@@ -58,7 +57,7 @@ export default function Profile() {
                         Hire Me {" "}
                     </button>
                     <a href='Hoa-Resume.pdf' download="Hoa Le.pdf">
-                        <Button className='btn highlighted-btn'>Get Resume</Button>
+                        <button className='btn highlighted-btn'>Get Resume</button>
                     </a>
                 </div>
             </div>

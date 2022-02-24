@@ -18,7 +18,6 @@
     --toast-success: #0CBFAE;
     --loader-color: #0CBFAE
 }
-@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;600&family=Ubuntu:wght@300;400;600&display=swap');
 :root {
   --background-color-one: #0F0F0F;
   --background-color-two: white;
@@ -153,7 +152,6 @@ body, .body {
   color: var(--text-color-two);
 }
 
-/* image */
 
 .card-img-top.object-top {
   object-position: top;
