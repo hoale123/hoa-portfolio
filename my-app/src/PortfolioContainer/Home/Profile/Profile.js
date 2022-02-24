@@ -10,12 +10,15 @@ export default function Profile() {
             <div className='profile-details'>
                 <div className='colz'>
                     <div className='colz-icon'>
-                    <a href='https://www.linkedin.com/in/hoa-le/'>
+                    Linkedin
+                    <a href='`https://www.linkedin.com/in/hoa-le/`'>
                         <i className='fa fa-linkedin-square'></i>
                     </a>
+                    Github
                     <a href='https://github.com/hoale123'>
                         <i className='fa fa-github'></i>
                     </a>
+                    Medium
                     <a href='https://medium.com/@hoale8594'>
                         <i className='fa fa-medium'></i>
                     </a>                    

@@ -29,7 +29,7 @@ export default function Navigation() {
 
     return (
         <div className={`nav d-flex ${top ? "" : "opaque"}`}>
-            <div className={`d-none d-sm-block logo ${top ? "" : "show"}`}>HUI SHUN</div>
+            <div className={`d-none d-sm-block logo ${top ? "" : "show"}`}>HOA LE</div>
             {/* <a className="card-link d-sm-none" href={"/" + resumePdfTitle} download>Resume</a> */}
             <Link
                 to="projects"
@@ -38,12 +38,12 @@ export default function Navigation() {
                 className="card-link"
                 offset={-40}
             >Projects</Link>
-            <Link
+            {/* <Link
                 to="writing"
                 smooth={true}
                 duration={300}
                 className={`card-link ${safari ? "d-none" : ""}`}
-            >Writing</Link>
+            >Writing</Link> */}
             <Link
                 to="contact"
                 smooth={true}

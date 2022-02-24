@@ -51,22 +51,12 @@ export default function Projects() {
                                                 href={project.siteUrl}
                                                 target="_blank" rel="noopener noreferrer"
                                                 className="card-link"
-                                            >Site</a>
+                                            >Demo</a>
                                             <a
                                                 href={project.codeUrl}
                                                 target="_blank" rel="noopener noreferrer"
                                                 className={`card-link ${project.codeUrl ? "" : "disabled"}`}
                                             >Code</a>
-
-                                            {/* {
-                                        project.altCodeUrl !== undefined &&
-                                        <a
-                                            href={project.altCodeUrl}
-                                            target="_blank" rel="noopener noreferrer"
-                                            className="card-link"
-                                        >More Code</a>
-                                    } */}
-
                                         </div>
                                     </div>
                                 </div>
