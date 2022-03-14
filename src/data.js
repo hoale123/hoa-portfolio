@@ -21,7 +21,7 @@ const projects = [
         description: 'A website that allows people to buy and sell physical goods, services, and digital products over the internet rather than at a brick-and-mortar location.',
         stack: ['Reactjs', 'JavaScript', 'Ruby'],
         imgName: 'e-commerce.png',
-        siteUrl: 'https://www.youtube.com/watch?v=QdENB7q4Nmw',
+        siteUrl: 'https://www.loom.com/share/3924820686b2478dacb9c32d4ba4a2f5?sharedAppSource=personal_library',
         codeUrl: 'https://github.com/hoale123/e-commerce',
     },
     {
