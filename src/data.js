@@ -5,7 +5,7 @@ const mediumFilterKeyword = 'technology'
 const email = 'hoa_le9485@yahoo.com'
 const githubUrl = "https://github.com/hoale123"
 const linkedInUrl = "https://www.linkedin.com/in/hoa-le/"
-const resumePdfTitle = 'Hoa-Resume.pdf'
+const resumePdfTitle = 'Hoa-Resume-cognizant.pdf'
 
 const projects = [
     {
