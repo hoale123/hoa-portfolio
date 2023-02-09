@@ -5,7 +5,7 @@ const Resume = () => {
     <div>
       <iframe
         title="Resume"
-        src={process.env.PUBLIC_URL + '/Hoa-Resume-cognizant.pdf'}
+        src={process.env.PUBLIC_URL + '/Hoa-Resume.pdf'}
         style={{ width: '100%', height: '500px' }}
       />
     </div>
