@@ -1,11 +1,11 @@
 const displayName = 'Hoa Le'
-const bannerDescription = 'Developer from Georiga'
+const bannerDescription = 'Developer from Georgia'
 const mediumUrl = 'https://medium.com/@hoale8594'
 const mediumFilterKeyword = 'technology'
 const email = 'hoa_le9485@yahoo.com'
 const githubUrl = "https://github.com/hoale123"
 const linkedInUrl = "https://www.linkedin.com/in/hoa-le/"
-const resumePdfTitle = 'Hoa-Resume.pdf'
+const resumePdfTitle = 'Hoa-Resume-cognizant.pdf'
 
 const projects = [
     {

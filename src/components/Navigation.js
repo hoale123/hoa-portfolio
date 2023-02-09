@@ -1,5 +1,4 @@
 import React, { useEffect, useLayoutEffect, useState } from 'react'
-// import { resumePdfTitle } from '../data';
 import { Link } from "react-scroll";
 
 export default function Navigation() {
